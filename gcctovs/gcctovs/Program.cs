@@ -41,7 +41,6 @@ namespace gcctovs
                 Console.WriteLine("\nSyntax: gcctovs [input]");
                 Console.WriteLine("\tinput: An input error in GCC format.");
             }
-            Console.ReadLine();
         }
     }
 }
