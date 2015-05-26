@@ -33,7 +33,7 @@ namespace gcctovs
                     }
                     else
                     {
-                        Console.Write("$_");
+                        Console.WriteLine("$_");
                     }
                 }
             }
